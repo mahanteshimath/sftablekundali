@@ -2,4 +2,5 @@
 matplotlib
 seaborn
 pandas
+urllib3==1.23 
 snowflake-snowpark-python
