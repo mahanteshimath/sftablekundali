@@ -1,4 +1,4 @@
-snowflake-snowpark-python
+-r https://raw.githubusercontent.com/snowflakedb/snowflake-connector-python/v2.7.9/tested_requirements/requirements_38.reqs
 matplotlib
 seaborn
 pandas
