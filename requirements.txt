@@ -3,4 +3,11 @@ matplotlib
 seaborn
 pandas
 urllib3==1.21.1
-snowflake-snowpark-python
+snowflake-snowpark-python[pandas]
+streamlit>=1.22
+toml
+sqlalchemy==1.4
+git+https://github.com/streamlit/files-connection
+s3fs
+gcsfs
+
